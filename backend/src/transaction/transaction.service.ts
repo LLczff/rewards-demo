@@ -7,7 +7,7 @@ import {
 import { CreateTransactionDto } from './dto/create-transaction.dto';
 import { InjectModel } from '@nestjs/mongoose';
 import { Transaction, TransactionDocument } from './schemas/transaction.schema';
-import { Model, Types } from 'mongoose';
+import { Model } from 'mongoose';
 import { CoinHistoryFilter } from 'src/common/interfaces/transaction.interface';
 import { CoinTransaction } from 'src/common/interfaces/transaction.interface';
 import { User, UserDocument } from 'src/user/schemas/user.schema';
@@ -47,7 +47,7 @@ export class TransactionService {
       // Insert coin transaction
       const transaction = new this.transactionModel({
         ...createTransactionDto,
-        amount: deal.cost,
+        amount: -1 * deal.cost,
         description: deal.title,
       });
       await transaction.save();
@@ -62,9 +62,9 @@ export class TransactionService {
     filter: CoinHistoryFilter,
   ): Promise<CoinTransaction[]> {
     const query: {
-      userId: Types.ObjectId;
+      userId: string;
       amount: { $gte?: number; $lt?: number };
-    } = { userId: new Types.ObjectId(userId), amount: {} };
+    } = { userId: userId, amount: {} };
 
     switch (filter) {
       case CoinHistoryFilter.Received:
