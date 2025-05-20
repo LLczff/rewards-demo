@@ -1,0 +1,39 @@
+services:
+  mongodb:
+    image: mongo:8.0
+    container_name: rewards-demo-mongodb
+    environment:
+      MONGO_INITDB_DATABASE: $MONGO_INITDB_DATABASE
+      MONGO_INITDB_USERNAME: $MONGO_INITDB_USERNAME
+      MONGO_INITDB_PASSWORD: $MONGO_INITDB_PASSWORD
+    expose:
+      - 27017
+    volumes:
+      - prod_data:/data/db
+      - ./database/init-mongo.sh:/docker-entrypoint-initdb.d/init-mongo.sh:ro
+      - ./database/data:/docker-entrypoint-initdb.d/data:ro
+
+  backend:
+    container_name: rewards-demo-api
+    build:
+      context: backend
+      dockerfile: Dockerfile
+    depends_on:
+      - mongodb
+    env_file:
+      - .env
+    ports:
+      - $BACKEND_PORT:$BACKEND_PORT
+
+  frontend:
+    container_name: rewards-demo-app
+    build:
+      context: frontend
+      dockerfile: Dockerfile
+    environment:
+      BASE_API_URL: $BASE_API_URL
+    ports:
+      - 3000:3000
+
+volumes:
+  prod_data:

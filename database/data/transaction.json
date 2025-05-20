@@ -1,0 +1,1449 @@
+[
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28515a"
+    },
+    "createdAt": {
+      "$date": "2024-07-31T22:41:57.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285186"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28515b"
+    },
+    "createdAt": {
+      "$date": "2025-03-06T17:52:12.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a7"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28515c"
+    },
+    "createdAt": {
+      "$date": "2024-08-16T09:50:07.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a0"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851c2"
+    },
+    "description": "Buy 1 get 1 on Classic Caesar Salad Kit",
+    "amount": -237
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28515d"
+    },
+    "createdAt": {
+      "$date": "2024-06-19T05:30:04.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851ad"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28515e"
+    },
+    "createdAt": {
+      "$date": "2024-11-23T21:04:42.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28515c"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28515f"
+    },
+    "createdAt": {
+      "$date": "2024-09-09T14:47:25.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a5"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285160"
+    },
+    "createdAt": {
+      "$date": "2025-05-06T15:22:10.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851ad"
+    },
+    "description": "Subscription paid",
+    "amount": 57
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285161"
+    },
+    "createdAt": {
+      "$date": "2024-08-09T20:00:51.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28517f"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851c7"
+    },
+    "description": "Get discount on Biodegradable Trash Bags",
+    "amount": -152
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285162"
+    },
+    "createdAt": {
+      "$date": "2025-04-21T10:44:19.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285188"
+    },
+    "description": "Subscription paid",
+    "amount": 94
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285163"
+    },
+    "createdAt": {
+      "$date": "2025-01-13T09:35:04.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851ab"
+    },
+    "description": "Subscription paid",
+    "amount": 23
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285164"
+    },
+    "createdAt": {
+      "$date": "2024-07-11T13:59:30.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285170"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285165"
+    },
+    "createdAt": {
+      "$date": "2024-05-25T07:45:04.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285194"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285166"
+    },
+    "createdAt": {
+      "$date": "2025-03-12T03:10:34.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28517b"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285208"
+    },
+    "description": "Get discount on Tomato Paste",
+    "amount": -246
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285167"
+    },
+    "createdAt": {
+      "$date": "2024-12-30T17:12:32.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851ad"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc728520d"
+    },
+    "description": "Free Digital Thermostat",
+    "amount": -206
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285168"
+    },
+    "createdAt": {
+      "$date": "2024-11-27T12:55:25.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28516c"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285213"
+    },
+    "description": "Free Avocado Oil",
+    "amount": -401
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285169"
+    },
+    "createdAt": {
+      "$date": "2024-06-13T06:18:11.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285188"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28516a"
+    },
+    "createdAt": {
+      "$date": "2024-06-20T10:40:17.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a3"
+    },
+    "description": "Subscription paid",
+    "amount": 70
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28516b"
+    },
+    "createdAt": {
+      "$date": "2024-07-25T21:52:58.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285175"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851ea"
+    },
+    "description": "Get discount on Walnut Halves",
+    "amount": -315
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28516c"
+    },
+    "createdAt": {
+      "$date": "2024-12-16T17:54:40.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285192"
+    },
+    "description": "Subscription paid",
+    "amount": 45
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28516d"
+    },
+    "createdAt": {
+      "$date": "2024-11-03T08:08:03.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851b6"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851e1"
+    },
+    "description": "Buy 1 get 1 on Caramelized Onion Dip Mix",
+    "amount": -498
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28516e"
+    },
+    "createdAt": {
+      "$date": "2025-01-07T14:35:39.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851af"
+    },
+    "description": "Subscription paid",
+    "amount": 69
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28516f"
+    },
+    "createdAt": {
+      "$date": "2025-04-18T12:42:31.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285171"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851f1"
+    },
+    "description": "Free Chia Seeds",
+    "amount": -4
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285170"
+    },
+    "createdAt": {
+      "$date": "2024-06-15T07:29:54.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285173"
+    },
+    "description": "Subscription paid",
+    "amount": 12
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285171"
+    },
+    "createdAt": {
+      "$date": "2024-08-26T21:05:05.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285184"
+    },
+    "description": "Subscription paid",
+    "amount": 68
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285172"
+    },
+    "createdAt": {
+      "$date": "2025-04-05T01:16:39.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a6"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851cd"
+    },
+    "description": "Buy 1 get 1 on Reusable Snack Bags",
+    "amount": -472
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285173"
+    },
+    "createdAt": {
+      "$date": "2025-03-22T20:41:04.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851b2"
+    },
+    "description": "Subscription paid",
+    "amount": 35
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285174"
+    },
+    "createdAt": {
+      "$date": "2024-12-16T12:00:49.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285168"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285220"
+    },
+    "description": "Buy 1 get 1 on Cheddar Cheese Slices",
+    "amount": -464
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285175"
+    },
+    "createdAt": {
+      "$date": "2025-04-01T12:31:38.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285182"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285220"
+    },
+    "description": "Buy 1 get 1 on Cheddar Cheese Slices",
+    "amount": -464
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285176"
+    },
+    "createdAt": {
+      "$date": "2025-03-26T09:00:08.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285161"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285177"
+    },
+    "createdAt": {
+      "$date": "2024-07-08T12:19:37.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851af"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851d1"
+    },
+    "description": "Get discount on Mixed Nuts",
+    "amount": -270
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285178"
+    },
+    "createdAt": {
+      "$date": "2024-08-07T00:42:47.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28516d"
+    },
+    "description": "Subscription paid",
+    "amount": 70
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285179"
+    },
+    "createdAt": {
+      "$date": "2024-08-01T00:41:34.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851bc"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851e9"
+    },
+    "description": "Get discount on Coconut Cashew Yogurt",
+    "amount": -179
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28517a"
+    },
+    "createdAt": {
+      "$date": "2024-12-24T00:03:35.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285183"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28517b"
+    },
+    "createdAt": {
+      "$date": "2024-09-02T01:08:41.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a4"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc728520a"
+    },
+    "description": "Buy 1 get 1 on Adjustable Dog Harness",
+    "amount": -45
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28517c"
+    },
+    "createdAt": {
+      "$date": "2024-06-23T20:29:06.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285193"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851ec"
+    },
+    "description": "Get discount on Yoga Blocks",
+    "amount": -98
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28517d"
+    },
+    "createdAt": {
+      "$date": "2024-11-27T22:50:56.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a6"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851db"
+    },
+    "description": "Buy 1 get 1 on Multi-Function Smartphone Holder",
+    "amount": -178
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28517e"
+    },
+    "createdAt": {
+      "$date": "2024-11-03T04:34:04.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285179"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851f9"
+    },
+    "description": "Buy 1 get 1 on Collapsible Colander",
+    "amount": -297
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28517f"
+    },
+    "createdAt": {
+      "$date": "2025-03-10T07:39:56.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285168"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285180"
+    },
+    "createdAt": {
+      "$date": "2024-11-20T01:26:00.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285180"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285218"
+    },
+    "description": "Buy 1 get 1 on Thai Peanut Noodles",
+    "amount": -65
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285181"
+    },
+    "createdAt": {
+      "$date": "2025-02-16T05:22:57.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851ba"
+    },
+    "description": "Subscription paid",
+    "amount": 30
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285182"
+    },
+    "createdAt": {
+      "$date": "2024-12-10T10:55:06.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851b1"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc728521c"
+    },
+    "description": "Get discount on Chopping Board",
+    "amount": -124
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285183"
+    },
+    "createdAt": {
+      "$date": "2025-04-25T02:46:02.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851af"
+    },
+    "description": "Subscription paid",
+    "amount": 73
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285184"
+    },
+    "createdAt": {
+      "$date": "2024-10-05T12:55:13.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285189"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285185"
+    },
+    "createdAt": {
+      "$date": "2024-11-28T17:00:16.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28517e"
+    },
+    "description": "Subscription paid",
+    "amount": 16
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285186"
+    },
+    "createdAt": {
+      "$date": "2024-09-23T08:53:51.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28515a"
+    },
+    "description": "Subscription paid",
+    "amount": 28
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285187"
+    },
+    "createdAt": {
+      "$date": "2024-05-22T13:34:26.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285190"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851f1"
+    },
+    "description": "Free Chia Seeds",
+    "amount": -4
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285188"
+    },
+    "createdAt": {
+      "$date": "2025-03-13T11:05:55.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a7"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285189"
+    },
+    "createdAt": {
+      "$date": "2024-08-24T15:36:52.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285160"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285221"
+    },
+    "description": "Get discount on Biodegradable Dog Waste Bags",
+    "amount": -310
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28518a"
+    },
+    "createdAt": {
+      "$date": "2024-07-27T06:44:17.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285199"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851f0"
+    },
+    "description": "Get discount on Kids' Learning Tablet",
+    "amount": -354
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28518b"
+    },
+    "createdAt": {
+      "$date": "2025-03-31T03:49:29.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a2"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851ee"
+    },
+    "description": "Buy 1 get 1 on Portable Solar Phone Charger",
+    "amount": -36
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28518c"
+    },
+    "createdAt": {
+      "$date": "2025-04-27T04:08:29.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28517f"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc728520f"
+    },
+    "description": "Buy 1 get 1 on Gardening Fairy Figurines",
+    "amount": -441
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28518d"
+    },
+    "createdAt": {
+      "$date": "2025-04-02T23:03:10.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285174"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851f7"
+    },
+    "description": "Free Dish Soap Dispenser",
+    "amount": -354
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28518e"
+    },
+    "createdAt": {
+      "$date": "2024-07-01T06:56:49.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28518c"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285204"
+    },
+    "description": "Get discount on Potato Wedge Seasoning",
+    "amount": -359
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28518f"
+    },
+    "createdAt": {
+      "$date": "2024-07-04T19:31:22.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851b1"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285215"
+    },
+    "description": "Free Ice Cream Scoop",
+    "amount": -437
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285190"
+    },
+    "createdAt": {
+      "$date": "2024-11-09T06:02:57.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285173"
+    },
+    "description": "Subscription paid",
+    "amount": 95
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285191"
+    },
+    "createdAt": {
+      "$date": "2024-07-04T13:02:13.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285199"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285207"
+    },
+    "description": "Free Italian Sausage and Peppers",
+    "amount": -193
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285192"
+    },
+    "createdAt": {
+      "$date": "2024-07-31T04:44:49.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851ad"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285210"
+    },
+    "description": "Get discount on Travel Jewelry Organizer",
+    "amount": -467
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285193"
+    },
+    "createdAt": {
+      "$date": "2024-08-08T03:25:14.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a0"
+    },
+    "description": "Subscription paid",
+    "amount": 89
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285194"
+    },
+    "createdAt": {
+      "$date": "2024-12-28T18:11:02.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285182"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285221"
+    },
+    "description": "Get discount on Biodegradable Dog Waste Bags",
+    "amount": -310
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285195"
+    },
+    "createdAt": {
+      "$date": "2025-04-07T12:50:35.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28517f"
+    },
+    "description": "Subscription paid",
+    "amount": 67
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285196"
+    },
+    "createdAt": {
+      "$date": "2025-05-04T21:42:28.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28519b"
+    },
+    "description": "Subscription paid",
+    "amount": 54
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285197"
+    },
+    "createdAt": {
+      "$date": "2024-10-17T19:32:49.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285175"
+    },
+    "description": "Subscription paid",
+    "amount": 50
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285198"
+    },
+    "createdAt": {
+      "$date": "2024-08-20T19:20:01.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285164"
+    },
+    "description": "Subscription paid",
+    "amount": 89
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d285199"
+    },
+    "createdAt": {
+      "$date": "2025-01-23T01:31:49.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851ba"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285217"
+    },
+    "description": "Get discount on Peanut Butter Granola",
+    "amount": -459
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28519a"
+    },
+    "createdAt": {
+      "$date": "2025-05-17T06:41:42.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285168"
+    },
+    "description": "Subscription paid",
+    "amount": 50
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28519b"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T16:40:00.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285188"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285215"
+    },
+    "description": "Free Ice Cream Scoop",
+    "amount": -437
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28519c"
+    },
+    "createdAt": {
+      "$date": "2025-04-03T16:43:54.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285183"
+    },
+    "description": "Subscription paid",
+    "amount": 74
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28519d"
+    },
+    "createdAt": {
+      "$date": "2024-08-11T19:15:13.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851ad"
+    },
+    "description": "Subscription paid",
+    "amount": 21
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28519e"
+    },
+    "createdAt": {
+      "$date": "2024-05-27T23:57:54.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285162"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851d8"
+    },
+    "description": "Free Sourdough Bread",
+    "amount": -197
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d28519f"
+    },
+    "createdAt": {
+      "$date": "2024-10-19T18:38:41.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285197"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851a0"
+    },
+    "createdAt": {
+      "$date": "2024-12-30T02:54:00.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285178"
+    },
+    "description": "Subscription paid",
+    "amount": 54
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851a1"
+    },
+    "createdAt": {
+      "$date": "2024-12-25T17:26:59.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28517f"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285211"
+    },
+    "description": "Buy 1 get 1 on Pasta Primavera",
+    "amount": -392
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851a2"
+    },
+    "createdAt": {
+      "$date": "2025-03-10T16:06:42.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285191"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851a3"
+    },
+    "createdAt": {
+      "$date": "2025-02-07T09:46:32.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285188"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285200"
+    },
+    "description": "Buy 1 get 1 on Mechanical Keyboard",
+    "amount": -134
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851a4"
+    },
+    "createdAt": {
+      "$date": "2025-05-16T20:54:21.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28515a"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851d4"
+    },
+    "description": "Buy 1 get 1 on Teriyaki Tofu Stir-Fry",
+    "amount": -149
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851a5"
+    },
+    "createdAt": {
+      "$date": "2024-06-30T17:07:47.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851b0"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285220"
+    },
+    "description": "Buy 1 get 1 on Cheddar Cheese Slices",
+    "amount": -464
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851a6"
+    },
+    "createdAt": {
+      "$date": "2025-02-05T12:52:35.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851ad"
+    },
+    "description": "Subscription paid",
+    "amount": 62
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851a7"
+    },
+    "createdAt": {
+      "$date": "2025-01-19T16:20:25.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28518a"
+    },
+    "description": "Subscription paid",
+    "amount": 56
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851a8"
+    },
+    "createdAt": {
+      "$date": "2025-01-29T18:47:05.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a0"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc728520a"
+    },
+    "description": "Buy 1 get 1 on Adjustable Dog Harness",
+    "amount": -45
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851a9"
+    },
+    "createdAt": {
+      "$date": "2024-08-30T06:03:30.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285189"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851d8"
+    },
+    "description": "Free Sourdough Bread",
+    "amount": -197
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851aa"
+    },
+    "createdAt": {
+      "$date": "2024-12-08T23:44:52.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285183"
+    },
+    "description": "Subscription paid",
+    "amount": 76
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851ab"
+    },
+    "createdAt": {
+      "$date": "2025-01-07T17:47:42.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285179"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851f2"
+    },
+    "description": "Free Multi-Port USB Hub",
+    "amount": -131
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851ac"
+    },
+    "createdAt": {
+      "$date": "2025-04-18T21:04:23.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a1"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851fc"
+    },
+    "description": "Get discount on Stuffed Grape Leaves",
+    "amount": -376
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851ad"
+    },
+    "createdAt": {
+      "$date": "2024-09-22T13:02:18.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a7"
+    },
+    "description": "Subscription paid",
+    "amount": 55
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851ae"
+    },
+    "createdAt": {
+      "$date": "2024-07-11T20:47:10.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28517e"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851af"
+    },
+    "createdAt": {
+      "$date": "2025-02-26T19:10:40.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28516d"
+    },
+    "description": "Subscription paid",
+    "amount": 26
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851b0"
+    },
+    "createdAt": {
+      "$date": "2024-05-23T01:34:49.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28517c"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851fe"
+    },
+    "description": "Free Pesto Pasta Sauce",
+    "amount": -308
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851b1"
+    },
+    "createdAt": {
+      "$date": "2025-04-24T05:05:26.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285161"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc7285201"
+    },
+    "description": "Get discount on Spicy Beef Taco Mix",
+    "amount": -269
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851b2"
+    },
+    "createdAt": {
+      "$date": "2025-04-10T04:59:00.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a4"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851b3"
+    },
+    "createdAt": {
+      "$date": "2025-02-23T08:20:18.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285165"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851b4"
+    },
+    "createdAt": {
+      "$date": "2024-06-16T10:42:10.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf2851a0"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851e8"
+    },
+    "description": "Get discount on Ripped Boyfriend Jeans",
+    "amount": -278
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851b5"
+    },
+    "createdAt": {
+      "$date": "2024-09-29T15:30:56.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285166"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851b6"
+    },
+    "createdAt": {
+      "$date": "2024-10-08T11:39:30.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285181"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851dd"
+    },
+    "description": "Buy 1 get 1 on Frozen Mixed Vegetables",
+    "amount": -60
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851b7"
+    },
+    "createdAt": {
+      "$date": "2024-11-29T09:45:50.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28516e"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851b8"
+    },
+    "createdAt": {
+      "$date": "2025-01-14T07:11:27.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285176"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851fc"
+    },
+    "description": "Get discount on Stuffed Grape Leaves",
+    "amount": -376
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851b9"
+    },
+    "createdAt": {
+      "$date": "2025-02-14T12:50:04.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28519a"
+    },
+    "description": "Daily login",
+    "amount": 10
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851ba"
+    },
+    "createdAt": {
+      "$date": "2024-11-06T05:09:45.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285163"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851bf"
+    },
+    "description": "Free Free-Range Eggs",
+    "amount": -361
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851bb"
+    },
+    "createdAt": {
+      "$date": "2025-05-09T10:16:22.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285177"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851dd"
+    },
+    "description": "Buy 1 get 1 on Frozen Mixed Vegetables",
+    "amount": -60
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851bc"
+    },
+    "createdAt": {
+      "$date": "2024-11-09T21:51:05.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf28519a"
+    },
+    "dealId": {
+      "$oid": "68295ac2fc13ae2bc72851c4"
+    },
+    "description": "Buy 1 get 1 on Spicy Thai Coconut Soup",
+    "amount": -322
+  },
+  {
+    "_id": {
+      "$oid": "68296340fc13ae2b0d2851bd"
+    },
+    "createdAt": {
+      "$date": "2024-10-19T09:42:49.000Z"
+    },
+    "userId": {
+      "$oid": "68294e08fc13ae7caf285185"
+    },
+    "description": "Subscription paid",
+    "amount": 12
+  }
+]

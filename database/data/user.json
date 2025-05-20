@@ -1,0 +1,502 @@
+[
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28515a" },
+    "username": "Brodie Strippel",
+    "pawCoin": 361
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28515b" },
+    "username": "Leland Mingardo",
+    "pawCoin": 7202
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28515c" },
+    "username": "Saxe Fairnie",
+    "pawCoin": 9208
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28515d" },
+    "username": "Tammie Castro",
+    "pawCoin": 271
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28515e" },
+    "username": "Lura Stiell",
+    "pawCoin": 808
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28515f" },
+    "username": "Jamie Beavors",
+    "pawCoin": 5999
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285160" },
+    "username": "Hedy Klemps",
+    "pawCoin": 591
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285161" },
+    "username": "Vic Weiner",
+    "pawCoin": 2599
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285162" },
+    "username": "Stacia Moores",
+    "pawCoin": 7735
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285163" },
+    "username": "Marcie Callister",
+    "pawCoin": 4882
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285164" },
+    "username": "Bernardo Moyles",
+    "pawCoin": 7152
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285165" },
+    "username": "Wait Blazynski",
+    "pawCoin": 9700
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285166" },
+    "username": "Veronika Tebbe",
+    "pawCoin": 4940
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285167" },
+    "username": "Gilbertina Fanstone",
+    "pawCoin": 260
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285168" },
+    "username": "Brant Fowley",
+    "pawCoin": 8789
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285169" },
+    "username": "Diandra Strelitzki",
+    "pawCoin": 9692
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28516a" },
+    "username": "Dru Damerell",
+    "pawCoin": 1853
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28516b" },
+    "username": "Fanny Maben",
+    "pawCoin": 5090
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28516c" },
+    "username": "Ray Griffen",
+    "pawCoin": 6565
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28516d" },
+    "username": "Zsa zsa Beever",
+    "pawCoin": 6745
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28516e" },
+    "username": "Ardine Jocic",
+    "pawCoin": 8535
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28516f" },
+    "username": "Karina Lates",
+    "pawCoin": 8082
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285170" },
+    "username": "Dorri Danton",
+    "pawCoin": 6884
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285171" },
+    "username": "Merna Barlas",
+    "pawCoin": 4955
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285172" },
+    "username": "Sutherland Hartless",
+    "pawCoin": 1359
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285173" },
+    "username": "Melamie Gallier",
+    "pawCoin": 7265
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285174" },
+    "username": "Pat Barrass",
+    "pawCoin": 380
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285175" },
+    "username": "Becky Jovicevic",
+    "pawCoin": 334
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285176" },
+    "username": "Ianthe Warbeys",
+    "pawCoin": 7908
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285177" },
+    "username": "Kat Jerdon",
+    "pawCoin": 1330
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285178" },
+    "username": "Nerita Ivamy",
+    "pawCoin": 5781
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285179" },
+    "username": "Lily Greguoli",
+    "pawCoin": 7846
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28517a" },
+    "username": "Oswald Fenck",
+    "pawCoin": 6342
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28517b" },
+    "username": "Damaris Ibeson",
+    "pawCoin": 6275
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28517c" },
+    "username": "Wallis Carlile",
+    "pawCoin": 8903
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28517d" },
+    "username": "Britta Buick",
+    "pawCoin": 3833
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28517e" },
+    "username": "Andrus Stonelake",
+    "pawCoin": 3815
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28517f" },
+    "username": "Cherin Brennon",
+    "pawCoin": 8705
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285180" },
+    "username": "Coretta Lesper",
+    "pawCoin": 2842
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285181" },
+    "username": "Anallise Spancock",
+    "pawCoin": 8416
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285182" },
+    "username": "Netta McTurlough",
+    "pawCoin": 9840
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285183" },
+    "username": "Garret Acaster",
+    "pawCoin": 8953
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285184" },
+    "username": "Fair Allwood",
+    "pawCoin": 7689
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285185" },
+    "username": "Sandro Iacovozzo",
+    "pawCoin": 6558
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285186" },
+    "username": "James Mapis",
+    "pawCoin": 2769
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285187" },
+    "username": "Mar Benninger",
+    "pawCoin": 8417
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285188" },
+    "username": "Marcos Spalding",
+    "pawCoin": 8981
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285189" },
+    "username": "Mayne Gadsdon",
+    "pawCoin": 1694
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28518a" },
+    "username": "Ivett Pratt",
+    "pawCoin": 1456
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28518b" },
+    "username": "Tynan Hadwick",
+    "pawCoin": 5142
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28518c" },
+    "username": "Doralynne Coulter",
+    "pawCoin": 6788
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28518d" },
+    "username": "Jessie Kervin",
+    "pawCoin": 9983
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28518e" },
+    "username": "Tull Willard",
+    "pawCoin": 4314
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28518f" },
+    "username": "Vale Saggs",
+    "pawCoin": 1644
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285190" },
+    "username": "Barbra Sandwick",
+    "pawCoin": 4717
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285191" },
+    "username": "Deb Shiel",
+    "pawCoin": 8422
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285192" },
+    "username": "Doll Light",
+    "pawCoin": 553
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285193" },
+    "username": "Gordy Ivens",
+    "pawCoin": 6837
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285194" },
+    "username": "Greta D'Onise",
+    "pawCoin": 1150
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285195" },
+    "username": "Ethelbert Kleint",
+    "pawCoin": 6530
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285196" },
+    "username": "Barnett Ripon",
+    "pawCoin": 8477
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285197" },
+    "username": "Melly Gandar",
+    "pawCoin": 2820
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285198" },
+    "username": "Rossy Bendley",
+    "pawCoin": 8857
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf285199" },
+    "username": "Cordell Furnival",
+    "pawCoin": 3296
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28519a" },
+    "username": "Terrye Benoy",
+    "pawCoin": 9888
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28519b" },
+    "username": "Onofredo Andryunin",
+    "pawCoin": 3405
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28519c" },
+    "username": "Bordie Leishman",
+    "pawCoin": 9120
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28519d" },
+    "username": "Blake Rodolfi",
+    "pawCoin": 2604
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28519e" },
+    "username": "Matthew Pretious",
+    "pawCoin": 9783
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf28519f" },
+    "username": "Darill Kernock",
+    "pawCoin": 8998
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851a0" },
+    "username": "Terra MacAlinden",
+    "pawCoin": 5590
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851a1" },
+    "username": "Marget Watsham",
+    "pawCoin": 661
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851a2" },
+    "username": "Leora Pieterick",
+    "pawCoin": 1682
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851a3" },
+    "username": "Ingra Ninnotti",
+    "pawCoin": 1282
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851a4" },
+    "username": "Justino Folds",
+    "pawCoin": 2017
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851a5" },
+    "username": "Hermione Hindge",
+    "pawCoin": 590
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851a6" },
+    "username": "Margie Keitch",
+    "pawCoin": 4357
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851a7" },
+    "username": "Aigneis Braybrook",
+    "pawCoin": 9240
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851a8" },
+    "username": "Amberly Lutas",
+    "pawCoin": 426
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851a9" },
+    "username": "Elnore Dimitriev",
+    "pawCoin": 2956
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851aa" },
+    "username": "Farica Wyne",
+    "pawCoin": 911
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851ab" },
+    "username": "Raymund MacAvaddy",
+    "pawCoin": 2440
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851ac" },
+    "username": "Theodora Rentilll",
+    "pawCoin": 6310
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851ad" },
+    "username": "Shela Cavil",
+    "pawCoin": 6327
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851ae" },
+    "username": "Giselle Lucey",
+    "pawCoin": 3328
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851af" },
+    "username": "Daryn Thurby",
+    "pawCoin": 4798
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851b0" },
+    "username": "Zeke Killshaw",
+    "pawCoin": 2811
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851b1" },
+    "username": "Kippar Clair",
+    "pawCoin": 8878
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851b2" },
+    "username": "Mike Emtage",
+    "pawCoin": 9588
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851b3" },
+    "username": "Fina Drepp",
+    "pawCoin": 3463
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851b4" },
+    "username": "Jobey Brusle",
+    "pawCoin": 1419
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851b5" },
+    "username": "Tuckie Priscott",
+    "pawCoin": 66
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851b6" },
+    "username": "Vincenty Topping",
+    "pawCoin": 5919
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851b7" },
+    "username": "Michail Delacourt",
+    "pawCoin": 3983
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851b8" },
+    "username": "Gerry Benezet",
+    "pawCoin": 3699
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851b9" },
+    "username": "Joshia Cosham",
+    "pawCoin": 5700
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851ba" },
+    "username": "Lindsay Whitty",
+    "pawCoin": 9268
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851bb" },
+    "username": "Cristen Brind",
+    "pawCoin": 8494
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851bc" },
+    "username": "Sigrid Diggins",
+    "pawCoin": 2419
+  },
+  {
+    "_id": { "$oid": "68294e08fc13ae7caf2851bd" },
+    "username": "Winfield Russen",
+    "pawCoin": 2590
+  }
+]

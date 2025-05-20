@@ -1,0 +1,46 @@
+[
+  {
+    "_id": { "$oid": "68294ef1fc13ae7c5328515a" },
+    "name": "pet-accommodation"
+  },
+  {
+    "_id": { "$oid": "68294ef1fc13ae7c5328515b" },
+    "name": "pet-friendly-hotel"
+  },
+  {
+    "_id": { "$oid": "68294ef1fc13ae7c5328515c" },
+    "name": "pet-friendly-restaurant"
+  },
+  {
+    "_id": { "$oid": "68294ef1fc13ae7c5328515d" },
+    "name": "pet-cafe"
+  },
+  {
+    "_id": { "$oid": "68294ef1fc13ae7c5328515e" },
+    "name": "shopping-mall"
+  },
+  {
+    "_id": { "$oid": "68294ef2fc13ae7c5328515f" },
+    "name": "pet-shop"
+  },
+  {
+    "_id": { "$oid": "68294ef2fc13ae7c53285160" },
+    "name": "grooming"
+  },
+  {
+    "_id": { "$oid": "68294ef2fc13ae7c53285161" },
+    "name": "training-center"
+  },
+  {
+    "_id": { "$oid": "68294ef2fc13ae7c53285162" },
+    "name": "pet-swimming-pool"
+  },
+  {
+    "_id": { "$oid": "68294ef2fc13ae7c53285163" },
+    "name": "pet-playground"
+  },
+  {
+    "_id": { "$oid": "68294ef2fc13ae7c53285164" },
+    "name": "veterinary-hospital"
+  }
+]

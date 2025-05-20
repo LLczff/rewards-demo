@@ -1,0 +1,2402 @@
+[
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851be"
+    },
+    "title": "Free Screen Cleaning Kit",
+    "cost": 70,
+    "totalQuota": 798,
+    "remainingQuota": 338,
+    "availableDate": {
+      "$date": "2024-07-18T13:24:11.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-03-30T04:38:03.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285322"
+    },
+    "description": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "termsAndCondition": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "createdAt": {
+      "$date": "2024-11-05T05:53:25.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/dhole/n02115913_2320.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851bf"
+    },
+    "title": "Free Free-Range Eggs",
+    "cost": 361,
+    "totalQuota": 863,
+    "remainingQuota": 109,
+    "availableDate": {
+      "$date": "2024-07-28T07:43:06.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-03-22T09:48:22.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285317"
+    },
+    "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "termsAndCondition": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo.",
+    "createdAt": {
+      "$date": "2024-11-08T06:24:53.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/pointer-german/n02100236_3615.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851c0"
+    },
+    "title": "Get discount on High-Top Leather Boots",
+    "cost": 192,
+    "totalQuota": 855,
+    "remainingQuota": 490,
+    "availableDate": {
+      "$date": "2024-07-19T20:01:09.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-03-10T21:34:39.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285325"
+    },
+    "description": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "termsAndCondition": "Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "createdAt": {
+      "$date": "2024-09-21T21:08:51.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/akita/Akita_Inu_dog.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851c1"
+    },
+    "title": "Free Relaxed Fit Henley Shirt",
+    "cost": 290,
+    "totalQuota": 933,
+    "remainingQuota": 82,
+    "availableDate": {
+      "$date": "2025-05-01T23:06:52.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-05-01T12:56:04.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852ee"
+    },
+    "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",
+    "termsAndCondition": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+    "createdAt": {
+      "$date": "2025-04-23T23:06:56.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/pariah-indian/The_Indian_Pariah_Dog.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851c2"
+    },
+    "title": "Buy 1 get 1 on Classic Caesar Salad Kit",
+    "cost": 237,
+    "totalQuota": 760,
+    "remainingQuota": 174,
+    "availableDate": {
+      "$date": "2024-10-20T01:34:32.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-02-26T07:16:22.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285333"
+    },
+    "description": "Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.",
+    "termsAndCondition": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "createdAt": {
+      "$date": "2024-06-24T18:46:38.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_1491.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851c3"
+    },
+    "title": "Free Sporty Slide Sandals",
+    "cost": 201,
+    "totalQuota": 863,
+    "remainingQuota": 15,
+    "availableDate": {
+      "$date": "2024-07-31T06:49:53.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-21T22:47:18.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285325"
+    },
+    "description": "Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "termsAndCondition": "Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+    "createdAt": {
+      "$date": "2024-07-14T14:59:41.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/rottweiler/n02106550_3886.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851c4"
+    },
+    "title": "Buy 1 get 1 on Spicy Thai Coconut Soup",
+    "cost": 322,
+    "totalQuota": 792,
+    "remainingQuota": 367,
+    "availableDate": {
+      "$date": "2024-10-06T02:00:31.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-07-17T04:54:37.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852f6"
+    },
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum.",
+    "termsAndCondition": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.",
+    "createdAt": {
+      "$date": "2025-05-07T17:13:12.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_923.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851c5"
+    },
+    "title": "Get discount on Pasta (Linguine)",
+    "cost": 253,
+    "totalQuota": 896,
+    "remainingQuota": 336,
+    "availableDate": {
+      "$date": "2024-10-22T09:58:46.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-05-22T06:02:02.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285318"
+    },
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
+    "termsAndCondition": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc.",
+    "createdAt": {
+      "$date": "2025-04-09T22:41:43.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/samoyed/n02111889_12045.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851c6"
+    },
+    "title": "Buy 1 get 1 on Stainless Steel Travel Mug",
+    "cost": 421,
+    "totalQuota": 819,
+    "remainingQuota": 110,
+    "availableDate": {
+      "$date": "2025-03-23T13:58:41.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-02-05T01:34:20.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285342"
+    },
+    "description": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "termsAndCondition": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "createdAt": {
+      "$date": "2024-11-05T05:53:25.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/dane-great/n02109047_1813.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851c7"
+    },
+    "title": "Get discount on Biodegradable Trash Bags",
+    "cost": 152,
+    "totalQuota": 839,
+    "remainingQuota": 189,
+    "availableDate": {
+      "$date": "2024-11-08T21:42:20.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-12-04T13:13:28.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828530d"
+    },
+    "description": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.",
+    "termsAndCondition": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.",
+    "createdAt": {
+      "$date": "2025-01-29T00:01:13.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/akita/512px-Ainu-Dog.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851c8"
+    },
+    "title": "Free Chocolate Chip Pancake Mix",
+    "cost": 213,
+    "totalQuota": 573,
+    "remainingQuota": 277,
+    "availableDate": {
+      "$date": "2025-05-06T06:10:52.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-07-26T13:07:39.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852ee"
+    },
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis.",
+    "termsAndCondition": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+    "createdAt": {
+      "$date": "2025-03-11T07:09:05.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/sheepdog-indian/Himalayan_Sheepdog.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851c9"
+    },
+    "title": "Get discount on Pet Water Fountain",
+    "cost": 493,
+    "totalQuota": 660,
+    "remainingQuota": 263,
+    "availableDate": {
+      "$date": "2024-11-17T21:23:27.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-02T11:11:57.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285300"
+    },
+    "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "termsAndCondition": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",
+    "createdAt": {
+      "$date": "2025-05-16T05:14:59.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-american/n02093428_632.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851ca"
+    },
+    "title": "Get discount on Warm Knit Beanie",
+    "cost": 28,
+    "totalQuota": 617,
+    "remainingQuota": 366,
+    "availableDate": {
+      "$date": "2025-03-17T02:42:39.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-07-26T23:07:57.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285330"
+    },
+    "description": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
+    "termsAndCondition": "Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "createdAt": {
+      "$date": "2024-07-02T08:21:29.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/finnish-lapphund/mochilamvan.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851cb"
+    },
+    "title": "Buy 1 get 1 on Blueberry Muffin Mix",
+    "cost": 287,
+    "totalQuota": 614,
+    "remainingQuota": 7,
+    "availableDate": {
+      "$date": "2025-05-10T02:48:10.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-02-11T11:18:52.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852f7"
+    },
+    "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
+    "termsAndCondition": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
+    "createdAt": {
+      "$date": "2025-01-01T12:23:52.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/doberman/n02107142_3171.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851cc"
+    },
+    "title": "Free Travel Sewing Kit",
+    "cost": 435,
+    "totalQuota": 781,
+    "remainingQuota": 4,
+    "availableDate": {
+      "$date": "2025-01-13T16:29:16.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-09-16T21:29:18.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852f8"
+    },
+    "description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
+    "termsAndCondition": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
+    "createdAt": {
+      "$date": "2024-08-23T06:16:19.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_2648.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851cd"
+    },
+    "title": "Buy 1 get 1 on Reusable Snack Bags",
+    "cost": 472,
+    "totalQuota": 531,
+    "remainingQuota": 341,
+    "availableDate": {
+      "$date": "2024-05-18T02:22:59.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-07-13T20:49:30.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285302"
+    },
+    "description": "In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
+    "termsAndCondition": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+    "createdAt": {
+      "$date": "2025-04-07T04:00:30.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/mountain-bernese/n02107683_906.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851ce"
+    },
+    "title": "Get discount on Travel Document Organizer",
+    "cost": 480,
+    "totalQuota": 757,
+    "remainingQuota": 120,
+    "availableDate": {
+      "$date": "2024-08-19T05:55:21.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-07-29T07:08:42.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285312"
+    },
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis.",
+    "termsAndCondition": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+    "createdAt": {
+      "$date": "2025-03-11T07:09:05.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/setter-english/n02100735_3111.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851cf"
+    },
+    "title": "Get discount on Magnetic Curtain Tiebacks",
+    "cost": 272,
+    "totalQuota": 541,
+    "remainingQuota": 81,
+    "availableDate": {
+      "$date": "2024-07-06T17:51:13.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-01-12T05:00:39.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852fc"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "termsAndCondition": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+    "createdAt": {
+      "$date": "2024-10-28T19:25:00.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/spaniel-welsh/n02102177_1361.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851d0"
+    },
+    "title": "Get discount on Magic Color-Changing Mug",
+    "cost": 91,
+    "totalQuota": 779,
+    "remainingQuota": 213,
+    "availableDate": {
+      "$date": "2024-06-29T05:54:55.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-12-05T04:27:33.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828534a"
+    },
+    "description": "Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.",
+    "termsAndCondition": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum.",
+    "createdAt": {
+      "$date": "2025-01-15T04:59:58.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/sheepdog-indian/Himalayan_Sheepdog.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851d1"
+    },
+    "title": "Get discount on Mixed Nuts",
+    "cost": 270,
+    "totalQuota": 853,
+    "remainingQuota": 84,
+    "availableDate": {
+      "$date": "2024-09-06T01:15:15.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-15T03:28:32.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285325"
+    },
+    "description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+    "termsAndCondition": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus.",
+    "createdAt": {
+      "$date": "2024-11-09T04:01:12.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/boxer/n02108089_11122.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851d2"
+    },
+    "title": "Free Essential Oil Roller Bottles",
+    "cost": 403,
+    "totalQuota": 839,
+    "remainingQuota": 196,
+    "availableDate": {
+      "$date": "2024-11-12T18:58:10.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-05-25T09:43:05.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285319"
+    },
+    "description": "Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "termsAndCondition": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+    "createdAt": {
+      "$date": "2024-06-13T07:25:20.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/spitz-japanese/beet-002.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851d3"
+    },
+    "title": "Buy 1 get 1 on Silicone Baking Molds",
+    "cost": 286,
+    "totalQuota": 839,
+    "remainingQuota": 255,
+    "availableDate": {
+      "$date": "2024-11-20T16:58:10.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-07T15:29:16.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285306"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "termsAndCondition": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.",
+    "createdAt": {
+      "$date": "2024-09-13T12:48:57.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/hound-blood/n02088466_6775.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851d4"
+    },
+    "title": "Buy 1 get 1 on Teriyaki Tofu Stir-Fry",
+    "cost": 149,
+    "totalQuota": 814,
+    "remainingQuota": 449,
+    "availableDate": {
+      "$date": "2024-12-24T01:34:58.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-12-16T07:54:48.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852ec"
+    },
+    "description": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "termsAndCondition": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "createdAt": {
+      "$date": "2024-11-05T05:53:25.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/deerhound-scottish/n02092002_6723.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851d5"
+    },
+    "title": "Free Chic Jumpsuit",
+    "cost": 221,
+    "totalQuota": 999,
+    "remainingQuota": 70,
+    "availableDate": {
+      "$date": "2024-06-26T12:05:36.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-06T13:15:32.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828531e"
+    },
+    "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "termsAndCondition": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",
+    "createdAt": {
+      "$date": "2025-05-16T05:14:59.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/spaniel-brittany/n02101388_2159.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851d6"
+    },
+    "title": "Get discount on Wooden Blocks",
+    "cost": 227,
+    "totalQuota": 936,
+    "remainingQuota": 47,
+    "availableDate": {
+      "$date": "2024-08-27T23:27:39.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-27T16:19:38.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852f2"
+    },
+    "description": "Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "termsAndCondition": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo.",
+    "createdAt": {
+      "$date": "2025-01-21T15:45:06.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/hound-english/n02089973_3040.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851d7"
+    },
+    "title": "Buy 1 get 1 on Luxury Bath Salts",
+    "cost": 475,
+    "totalQuota": 946,
+    "remainingQuota": 227,
+    "availableDate": {
+      "$date": "2025-05-01T13:10:13.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-05-04T09:55:43.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828530b"
+    },
+    "description": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante.",
+    "termsAndCondition": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+    "createdAt": {
+      "$date": "2025-05-10T09:09:00.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/wolfhound-irish/n02090721_2860.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851d8"
+    },
+    "title": "Free Sourdough Bread",
+    "cost": 197,
+    "totalQuota": 685,
+    "remainingQuota": 52,
+    "availableDate": {
+      "$date": "2024-07-14T10:05:20.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-05-07T08:38:18.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828533e"
+    },
+    "description": "Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl.",
+    "termsAndCondition": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "createdAt": {
+      "$date": "2025-03-15T05:01:09.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/shiba/shiba-10.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851d9"
+    },
+    "title": "Buy 1 get 1 on Basil-infused Olive Oil",
+    "cost": 410,
+    "totalQuota": 891,
+    "remainingQuota": 307,
+    "availableDate": {
+      "$date": "2024-07-06T08:48:32.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-06-15T06:04:47.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828532e"
+    },
+    "description": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+    "termsAndCondition": "Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "createdAt": {
+      "$date": "2024-09-28T12:20:33.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_9682.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851da"
+    },
+    "title": "Buy 1 get 1 on Pork Tenderloin",
+    "cost": 325,
+    "totalQuota": 770,
+    "remainingQuota": 207,
+    "availableDate": {
+      "$date": "2024-11-28T18:29:41.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-03-24T16:33:33.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852ea"
+    },
+    "description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
+    "termsAndCondition": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
+    "createdAt": {
+      "$date": "2024-08-23T06:16:19.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/spaniel-cocker/n02102318_12053.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851db"
+    },
+    "title": "Buy 1 get 1 on Multi-Function Smartphone Holder",
+    "cost": 178,
+    "totalQuota": 776,
+    "remainingQuota": 50,
+    "availableDate": {
+      "$date": "2024-11-17T10:26:15.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-30T11:15:52.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285328"
+    },
+    "description": "Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
+    "termsAndCondition": "Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
+    "createdAt": {
+      "$date": "2024-10-14T10:52:33.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/cattledog-australian/IMG_0206.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851dc"
+    },
+    "title": "Get discount on Digital Stopwatch Timer",
+    "cost": 404,
+    "totalQuota": 517,
+    "remainingQuota": 13,
+    "availableDate": {
+      "$date": "2024-07-24T01:48:43.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-24T00:53:51.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285324"
+    },
+    "description": "Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+    "termsAndCondition": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+    "createdAt": {
+      "$date": "2025-03-21T17:18:26.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/bulldog-english/murphy.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851dd"
+    },
+    "title": "Buy 1 get 1 on Frozen Mixed Vegetables",
+    "cost": 60,
+    "totalQuota": 666,
+    "remainingQuota": 57,
+    "availableDate": {
+      "$date": "2024-11-03T02:53:24.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-11-19T17:00:01.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285329"
+    },
+    "description": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+    "termsAndCondition": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
+    "createdAt": {
+      "$date": "2024-10-03T09:52:41.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/gaddi-indian/Gaddi.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851de"
+    },
+    "title": "Free Faux Fur Coat",
+    "cost": 394,
+    "totalQuota": 976,
+    "remainingQuota": 122,
+    "availableDate": {
+      "$date": "2024-08-02T13:07:23.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-04-12T15:04:10.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852fe"
+    },
+    "description": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla.",
+    "termsAndCondition": "Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",
+    "createdAt": {
+      "$date": "2024-06-11T00:04:44.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-silky/n02097658_3639.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851df"
+    },
+    "title": "Free Eco-Friendly Notepad",
+    "cost": 426,
+    "totalQuota": 964,
+    "remainingQuota": 295,
+    "availableDate": {
+      "$date": "2025-04-08T07:23:34.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-05-22T19:36:45.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285349"
+    },
+    "description": "Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.",
+    "termsAndCondition": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "createdAt": {
+      "$date": "2024-06-24T18:46:38.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_1543.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851e0"
+    },
+    "title": "Get discount on Noise Cancelling Ear Muffs",
+    "cost": 115,
+    "totalQuota": 633,
+    "remainingQuota": 14,
+    "availableDate": {
+      "$date": "2024-06-15T08:38:41.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-01-23T23:10:44.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852ff"
+    },
+    "description": "Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
+    "termsAndCondition": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "createdAt": {
+      "$date": "2024-08-09T20:50:09.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-fox/n02095314_1282.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851e1"
+    },
+    "title": "Buy 1 get 1 on Caramelized Onion Dip Mix",
+    "cost": 498,
+    "totalQuota": 865,
+    "remainingQuota": 72,
+    "availableDate": {
+      "$date": "2024-07-22T01:05:59.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-12-29T05:50:19.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285337"
+    },
+    "description": "Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.",
+    "termsAndCondition": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "createdAt": {
+      "$date": "2024-11-04T08:09:35.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_9615.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851e2"
+    },
+    "title": "Get discount on Spicy Hummus",
+    "cost": 109,
+    "totalQuota": 871,
+    "remainingQuota": 421,
+    "availableDate": {
+      "$date": "2024-06-30T06:23:12.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-15T03:46:46.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285346"
+    },
+    "description": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+    "termsAndCondition": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
+    "createdAt": {
+      "$date": "2024-10-03T09:52:41.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/deerhound-scottish/n02092002_4921.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851e3"
+    },
+    "title": "Get discount on Heat-Resistant Silicone Mat",
+    "cost": 158,
+    "totalQuota": 647,
+    "remainingQuota": 212,
+    "availableDate": {
+      "$date": "2024-08-08T04:43:32.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-06-21T22:32:56.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828531a"
+    },
+    "description": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "termsAndCondition": "Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "createdAt": {
+      "$date": "2024-09-21T21:08:51.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-border/n02093754_367.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851e4"
+    },
+    "title": "Get discount on Peach Yogurt",
+    "cost": 3,
+    "totalQuota": 909,
+    "remainingQuota": 393,
+    "availableDate": {
+      "$date": "2025-01-09T01:18:43.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-02-26T21:34:52.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852fa"
+    },
+    "description": "Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.",
+    "termsAndCondition": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "createdAt": {
+      "$date": "2024-11-04T08:09:35.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/cockapoo/gracie.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851e5"
+    },
+    "title": "Buy 1 get 1 on Pretzel Bites",
+    "cost": 204,
+    "totalQuota": 589,
+    "remainingQuota": 308,
+    "availableDate": {
+      "$date": "2024-06-30T18:28:18.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-25T14:38:36.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285330"
+    },
+    "description": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante.",
+    "termsAndCondition": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+    "createdAt": {
+      "$date": "2025-05-10T09:09:00.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_567.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851e6"
+    },
+    "title": "Free Spaghetti and Meatball Dinner Kit",
+    "cost": 117,
+    "totalQuota": 657,
+    "remainingQuota": 473,
+    "availableDate": {
+      "$date": "2024-06-15T23:12:59.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-02-19T14:05:20.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285325"
+    },
+    "description": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "termsAndCondition": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla.",
+    "createdAt": {
+      "$date": "2024-08-11T01:14:24.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/dachshund/dachshund-123503_640.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851e7"
+    },
+    "title": "Free Travel Jewelry Organizer",
+    "cost": 234,
+    "totalQuota": 730,
+    "remainingQuota": 423,
+    "availableDate": {
+      "$date": "2024-10-28T01:18:10.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-06T00:52:20.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828533f"
+    },
+    "description": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio.",
+    "termsAndCondition": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "createdAt": {
+      "$date": "2024-10-01T04:00:13.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/spaniel-brittany/n02101388_10017.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851e8"
+    },
+    "title": "Get discount on Ripped Boyfriend Jeans",
+    "cost": 278,
+    "totalQuota": 900,
+    "remainingQuota": 369,
+    "availableDate": {
+      "$date": "2024-10-04T05:30:08.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-05-22T04:54:07.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828533f"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
+    "termsAndCondition": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "createdAt": {
+      "$date": "2024-10-08T19:11:26.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/bouvier/n02106382_3840.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851e9"
+    },
+    "title": "Get discount on Coconut Cashew Yogurt",
+    "cost": 179,
+    "totalQuota": 751,
+    "remainingQuota": 92,
+    "availableDate": {
+      "$date": "2025-01-06T00:09:48.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-21T13:07:45.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285319"
+    },
+    "description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.",
+    "termsAndCondition": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum.",
+    "createdAt": {
+      "$date": "2024-05-24T11:59:00.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/labradoodle/Cali.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851ea"
+    },
+    "title": "Get discount on Walnut Halves",
+    "cost": 315,
+    "totalQuota": 942,
+    "remainingQuota": 311,
+    "availableDate": {
+      "$date": "2025-01-05T04:02:10.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-16T22:02:05.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852eb"
+    },
+    "description": "Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.",
+    "termsAndCondition": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "createdAt": {
+      "$date": "2024-11-04T08:09:35.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/bouvier/n02106382_1925.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851eb"
+    },
+    "title": "Get discount on Basil Pesto Pasta",
+    "cost": 22,
+    "totalQuota": 936,
+    "remainingQuota": 143,
+    "availableDate": {
+      "$date": "2024-06-07T12:12:09.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-12-17T00:18:00.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285312"
+    },
+    "description": "Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "termsAndCondition": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo.",
+    "createdAt": {
+      "$date": "2025-01-21T15:45:06.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/pembroke/n02113023_11397.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851ec"
+    },
+    "title": "Get discount on Yoga Blocks",
+    "cost": 98,
+    "totalQuota": 698,
+    "remainingQuota": 372,
+    "availableDate": {
+      "$date": "2025-02-26T18:05:21.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-02-02T02:57:19.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285338"
+    },
+    "description": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+    "termsAndCondition": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
+    "createdAt": {
+      "$date": "2024-10-03T09:52:41.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-australian/n02096294_8067.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851ed"
+    },
+    "title": "Free Sweet Potato and Chickpea Bowl",
+    "cost": 338,
+    "totalQuota": 824,
+    "remainingQuota": 428,
+    "availableDate": {
+      "$date": "2024-10-15T22:51:39.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-06-23T08:53:26.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852eb"
+    },
+    "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+    "termsAndCondition": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "createdAt": {
+      "$date": "2024-08-15T10:22:27.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/poodle-medium/PXL_20210220_100624962.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851ee"
+    },
+    "title": "Buy 1 get 1 on Portable Solar Phone Charger",
+    "cost": 36,
+    "totalQuota": 631,
+    "remainingQuota": 364,
+    "availableDate": {
+      "$date": "2024-05-21T10:26:33.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-01-09T12:12:01.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285306"
+    },
+    "description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.",
+    "termsAndCondition": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum.",
+    "createdAt": {
+      "$date": "2024-05-24T11:59:00.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/ovcharka-caucasian/IMG_20200206_195949.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851ef"
+    },
+    "title": "Free Cauliflower Crust Pizza",
+    "cost": 125,
+    "totalQuota": 970,
+    "remainingQuota": 265,
+    "availableDate": {
+      "$date": "2024-06-22T00:47:24.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-09-03T00:14:01.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285343"
+    },
+    "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim.",
+    "termsAndCondition": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo.",
+    "createdAt": {
+      "$date": "2025-01-13T23:06:51.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/schnauzer-giant/n02097130_2821.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851f0"
+    },
+    "title": "Get discount on Kids' Learning Tablet",
+    "cost": 354,
+    "totalQuota": 592,
+    "remainingQuota": 25,
+    "availableDate": {
+      "$date": "2024-10-02T23:32:37.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-04-22T06:20:59.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285334"
+    },
+    "description": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio.",
+    "termsAndCondition": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "createdAt": {
+      "$date": "2024-10-01T04:00:13.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/tervuren/yoda_in_garden.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851f1"
+    },
+    "title": "Free Chia Seeds",
+    "cost": 4,
+    "totalQuota": 610,
+    "remainingQuota": 100,
+    "availableDate": {
+      "$date": "2024-08-06T18:30:06.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-26T13:40:08.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852ed"
+    },
+    "description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.",
+    "termsAndCondition": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum.",
+    "createdAt": {
+      "$date": "2024-05-24T11:59:00.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/bouvier/n02106382_865.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851f2"
+    },
+    "title": "Free Multi-Port USB Hub",
+    "cost": 131,
+    "totalQuota": 552,
+    "remainingQuota": 443,
+    "availableDate": {
+      "$date": "2024-08-08T23:29:55.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-05-12T13:39:54.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828530f"
+    },
+    "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum.",
+    "termsAndCondition": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+    "createdAt": {
+      "$date": "2024-10-19T11:02:49.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/dhole/n02115913_5507.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851f3"
+    },
+    "title": "Buy 1 get 1 on Robot Vacuum Cleaner",
+    "cost": 443,
+    "totalQuota": 918,
+    "remainingQuota": 59,
+    "availableDate": {
+      "$date": "2025-04-07T21:26:36.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-08T11:13:12.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285318"
+    },
+    "description": "Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",
+    "termsAndCondition": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl.",
+    "createdAt": {
+      "$date": "2024-07-16T02:10:08.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/cockapoo/gracie.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851f4"
+    },
+    "title": "Free Almond Milk",
+    "cost": 169,
+    "totalQuota": 686,
+    "remainingQuota": 492,
+    "availableDate": {
+      "$date": "2025-05-04T00:40:47.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-09-25T08:44:10.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828532e"
+    },
+    "description": "Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
+    "termsAndCondition": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "createdAt": {
+      "$date": "2025-04-26T18:43:31.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/sheepdog-english/n02105641_10397.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851f5"
+    },
+    "title": "Buy 1 get 1 on Chino Shorts",
+    "cost": 287,
+    "totalQuota": 501,
+    "remainingQuota": 452,
+    "availableDate": {
+      "$date": "2025-03-29T05:40:34.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-14T18:11:43.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852f8"
+    },
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+    "termsAndCondition": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "createdAt": {
+      "$date": "2024-06-08T03:34:12.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/bluetick/n02088632_1118.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851f6"
+    },
+    "title": "Free Active Racerback Tank",
+    "cost": 147,
+    "totalQuota": 819,
+    "remainingQuota": 230,
+    "availableDate": {
+      "$date": "2024-09-14T15:54:57.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-04-21T17:56:29.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285332"
+    },
+    "description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.",
+    "termsAndCondition": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
+    "createdAt": {
+      "$date": "2024-11-02T00:13:08.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/rottweiler/n02106550_11823.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851f7"
+    },
+    "title": "Free Dish Soap Dispenser",
+    "cost": 354,
+    "totalQuota": 533,
+    "remainingQuota": 478,
+    "availableDate": {
+      "$date": "2025-02-11T10:01:20.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-03T19:43:22.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828531a"
+    },
+    "description": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante.",
+    "termsAndCondition": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+    "createdAt": {
+      "$date": "2025-05-10T09:09:00.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/cattledog-australian/IMG_5481.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851f8"
+    },
+    "title": "Buy 1 get 1 on Collapsible Camping Cup",
+    "cost": 20,
+    "totalQuota": 643,
+    "remainingQuota": 171,
+    "availableDate": {
+      "$date": "2024-07-17T06:11:36.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-07-13T01:26:08.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285345"
+    },
+    "description": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
+    "termsAndCondition": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "createdAt": {
+      "$date": "2025-02-24T03:27:55.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/mastiff-indian/Indian_Mastiff.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851f9"
+    },
+    "title": "Buy 1 get 1 on Collapsible Colander",
+    "cost": 297,
+    "totalQuota": 668,
+    "remainingQuota": 226,
+    "availableDate": {
+      "$date": "2024-12-20T00:50:37.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-09-09T09:27:09.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285310"
+    },
+    "description": "Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
+    "termsAndCondition": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "createdAt": {
+      "$date": "2024-08-09T20:50:09.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_2648.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851fa"
+    },
+    "title": "Free Vegetable Stir-Fry Kit",
+    "cost": 471,
+    "totalQuota": 527,
+    "remainingQuota": 112,
+    "availableDate": {
+      "$date": "2025-02-27T17:30:55.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-23T22:53:44.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285335"
+    },
+    "description": "Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.",
+    "termsAndCondition": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum.",
+    "createdAt": {
+      "$date": "2025-01-15T04:59:58.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/papillon/n02086910_2556.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851fb"
+    },
+    "title": "Buy 1 get 1 on Pet Leash",
+    "cost": 193,
+    "totalQuota": 596,
+    "remainingQuota": 335,
+    "availableDate": {
+      "$date": "2024-09-25T00:37:43.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-02-03T05:44:59.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285321"
+    },
+    "description": "Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
+    "termsAndCondition": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "createdAt": {
+      "$date": "2024-08-09T20:50:09.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/retriever-curly/n02099429_537.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851fc"
+    },
+    "title": "Get discount on Stuffed Grape Leaves",
+    "cost": 376,
+    "totalQuota": 504,
+    "remainingQuota": 145,
+    "availableDate": {
+      "$date": "2025-03-15T14:21:56.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-12-27T11:31:11.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828532c"
+    },
+    "description": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante.",
+    "termsAndCondition": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+    "createdAt": {
+      "$date": "2025-05-10T09:09:00.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/malinois/n02105162_1378.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851fd"
+    },
+    "title": "Free Essential Oils Diffuser Necklace",
+    "cost": 156,
+    "totalQuota": 820,
+    "remainingQuota": 372,
+    "availableDate": {
+      "$date": "2024-08-14T10:26:14.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-06-01T20:06:30.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828531b"
+    },
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
+    "termsAndCondition": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc.",
+    "createdAt": {
+      "$date": "2025-04-09T22:41:43.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/puggle/IMG_214822.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851fe"
+    },
+    "title": "Free Pesto Pasta Sauce",
+    "cost": 308,
+    "totalQuota": 595,
+    "remainingQuota": 177,
+    "availableDate": {
+      "$date": "2024-08-06T15:50:30.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-12-10T21:26:57.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852eb"
+    },
+    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+    "termsAndCondition": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
+    "createdAt": {
+      "$date": "2024-12-05T21:03:22.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/coonhound/n02089078_3419.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc72851ff"
+    },
+    "title": "Get discount on Honey Mustard Pretzel Bites",
+    "cost": 178,
+    "totalQuota": 606,
+    "remainingQuota": 300,
+    "availableDate": {
+      "$date": "2024-07-20T17:00:59.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-05-10T19:11:10.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828533d"
+    },
+    "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+    "termsAndCondition": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "createdAt": {
+      "$date": "2024-08-15T10:22:27.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-welsh/lucy.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285200"
+    },
+    "title": "Buy 1 get 1 on Mechanical Keyboard",
+    "cost": 134,
+    "totalQuota": 575,
+    "remainingQuota": 271,
+    "availableDate": {
+      "$date": "2024-12-12T14:12:50.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-03-27T10:17:13.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828532b"
+    },
+    "description": "Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "termsAndCondition": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",
+    "createdAt": {
+      "$date": "2024-06-24T00:06:47.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_8008.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285201"
+    },
+    "title": "Get discount on Spicy Beef Taco Mix",
+    "cost": 269,
+    "totalQuota": 834,
+    "remainingQuota": 469,
+    "availableDate": {
+      "$date": "2024-10-04T03:18:49.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-30T09:21:09.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285337"
+    },
+    "description": "Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "termsAndCondition": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo.",
+    "createdAt": {
+      "$date": "2025-01-21T15:45:06.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/redbone/n02090379_1345.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285202"
+    },
+    "title": "Get discount on Folding Exercise Bike",
+    "cost": 10,
+    "totalQuota": 881,
+    "remainingQuota": 259,
+    "availableDate": {
+      "$date": "2024-09-26T06:55:20.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-12-09T11:57:46.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828533b"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "termsAndCondition": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
+    "createdAt": {
+      "$date": "2024-06-23T06:50:46.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/cavapoo/doggo2.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285203"
+    },
+    "title": "Get discount on Portable Air Conditioner",
+    "cost": 288,
+    "totalQuota": 568,
+    "remainingQuota": 27,
+    "availableDate": {
+      "$date": "2025-02-09T14:49:25.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-07-22T21:14:49.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285322"
+    },
+    "description": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "termsAndCondition": "Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "createdAt": {
+      "$date": "2024-09-21T21:08:51.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/poodle-medium/PXL_20210220_100624962.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285204"
+    },
+    "title": "Get discount on Potato Wedge Seasoning",
+    "cost": 359,
+    "totalQuota": 625,
+    "remainingQuota": 224,
+    "availableDate": {
+      "$date": "2024-07-05T22:04:18.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-03T15:02:43.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285317"
+    },
+    "description": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo.",
+    "termsAndCondition": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.",
+    "createdAt": {
+      "$date": "2024-10-31T03:51:12.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-norfolk/n02094114_947.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285205"
+    },
+    "title": "Get discount on Striped Long Sleeve Shirt",
+    "cost": 109,
+    "totalQuota": 765,
+    "remainingQuota": 103,
+    "availableDate": {
+      "$date": "2025-05-13T06:44:20.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-01-12T03:00:08.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285309"
+    },
+    "description": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum.",
+    "termsAndCondition": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst.",
+    "createdAt": {
+      "$date": "2024-05-30T21:04:46.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/mountain-swiss/n02107574_1387.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285206"
+    },
+    "title": "Get discount on Teriyaki Chicken Wings",
+    "cost": 347,
+    "totalQuota": 789,
+    "remainingQuota": 7,
+    "availableDate": {
+      "$date": "2024-10-14T09:41:05.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-05-30T07:06:53.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285306"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "termsAndCondition": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
+    "createdAt": {
+      "$date": "2024-06-23T06:50:46.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/cockapoo/Guri7.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285207"
+    },
+    "title": "Free Italian Sausage and Peppers",
+    "cost": 193,
+    "totalQuota": 732,
+    "remainingQuota": 282,
+    "availableDate": {
+      "$date": "2025-03-18T06:45:54.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-05-21T16:08:22.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285308"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
+    "termsAndCondition": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "createdAt": {
+      "$date": "2024-10-08T19:11:26.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/australian-kelpie/Resized_20201114_133404_109264920155921.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285208"
+    },
+    "title": "Get discount on Tomato Paste",
+    "cost": 246,
+    "totalQuota": 939,
+    "remainingQuota": 459,
+    "availableDate": {
+      "$date": "2025-03-19T19:52:56.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-04-03T19:06:26.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828534b"
+    },
+    "description": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla.",
+    "termsAndCondition": "Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",
+    "createdAt": {
+      "$date": "2024-06-11T00:04:44.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/spaniel-cocker/n02102318_12717.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285209"
+    },
+    "title": "Free Pet Hair Removal Brush",
+    "cost": 164,
+    "totalQuota": 611,
+    "remainingQuota": 388,
+    "availableDate": {
+      "$date": "2024-07-05T14:45:48.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-03-26T09:50:23.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852eb"
+    },
+    "description": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
+    "termsAndCondition": "Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "createdAt": {
+      "$date": "2024-07-02T08:21:29.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/komondor/n02105505_3380.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728520a"
+    },
+    "title": "Buy 1 get 1 on Adjustable Dog Harness",
+    "cost": 45,
+    "totalQuota": 717,
+    "remainingQuota": 265,
+    "availableDate": {
+      "$date": "2025-01-24T09:18:56.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-03-05T17:17:12.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285347"
+    },
+    "description": "In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
+    "termsAndCondition": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+    "createdAt": {
+      "$date": "2025-04-07T04:00:30.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-cairn/n02096177_4801.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728520b"
+    },
+    "title": "Buy 1 get 1 on Dog Training Collar",
+    "cost": 221,
+    "totalQuota": 791,
+    "remainingQuota": 204,
+    "availableDate": {
+      "$date": "2024-09-06T12:38:08.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-12-10T20:24:14.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285324"
+    },
+    "description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
+    "termsAndCondition": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
+    "createdAt": {
+      "$date": "2024-08-23T06:16:19.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/kombai/Kombai-indian-Dog.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728520c"
+    },
+    "title": "Get discount on Greek Feta Cheese",
+    "cost": 498,
+    "totalQuota": 625,
+    "remainingQuota": 97,
+    "availableDate": {
+      "$date": "2024-07-19T23:43:27.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-03T13:53:27.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285326"
+    },
+    "description": "Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.",
+    "termsAndCondition": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
+    "createdAt": {
+      "$date": "2025-05-12T16:13:17.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-russell/IMG_7751.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728520d"
+    },
+    "title": "Free Digital Thermostat",
+    "cost": 206,
+    "totalQuota": 973,
+    "remainingQuota": 75,
+    "availableDate": {
+      "$date": "2024-10-10T17:39:57.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-09-11T13:51:37.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285324"
+    },
+    "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
+    "termsAndCondition": "Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio.",
+    "createdAt": {
+      "$date": "2024-05-29T00:49:25.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/pariah-indian/The_Indian_Pariah_Dog.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728520e"
+    },
+    "title": "Buy 1 get 1 on Utility Cargo Pants",
+    "cost": 166,
+    "totalQuota": 524,
+    "remainingQuota": 53,
+    "availableDate": {
+      "$date": "2024-07-31T10:50:53.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-01T10:05:39.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285334"
+    },
+    "description": "Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "termsAndCondition": "Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+    "createdAt": {
+      "$date": "2024-07-14T14:59:41.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_7114.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728520f"
+    },
+    "title": "Buy 1 get 1 on Gardening Fairy Figurines",
+    "cost": 441,
+    "totalQuota": 782,
+    "remainingQuota": 496,
+    "availableDate": {
+      "$date": "2025-04-20T09:05:06.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-05-13T00:36:19.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285347"
+    },
+    "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",
+    "termsAndCondition": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "createdAt": {
+      "$date": "2024-10-12T04:31:12.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-silky/n02097658_1356.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285210"
+    },
+    "title": "Get discount on Travel Jewelry Organizer",
+    "cost": 467,
+    "totalQuota": 568,
+    "remainingQuota": 481,
+    "availableDate": {
+      "$date": "2024-05-18T22:04:12.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-09-04T09:46:28.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828534c"
+    },
+    "description": "In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
+    "termsAndCondition": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "createdAt": {
+      "$date": "2025-02-05T12:48:00.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/bakharwal-indian/Bakharwal.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285211"
+    },
+    "title": "Buy 1 get 1 on Pasta Primavera",
+    "cost": 392,
+    "totalQuota": 657,
+    "remainingQuota": 305,
+    "availableDate": {
+      "$date": "2024-06-29T04:41:13.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-01-13T00:53:16.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828533b"
+    },
+    "description": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
+    "termsAndCondition": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "createdAt": {
+      "$date": "2025-02-24T03:27:55.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/rottweiler/n02106550_10478.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285212"
+    },
+    "title": "Buy 1 get 1 on Crispy Potato Tots",
+    "cost": 96,
+    "totalQuota": 757,
+    "remainingQuota": 30,
+    "availableDate": {
+      "$date": "2025-02-02T16:55:50.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-04-29T18:42:41.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285313"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+    "termsAndCondition": "Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
+    "createdAt": {
+      "$date": "2024-11-05T06:44:58.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/spaniel-sussex/n02102480_6047.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285213"
+    },
+    "title": "Free Avocado Oil",
+    "cost": 401,
+    "totalQuota": 696,
+    "remainingQuota": 344,
+    "availableDate": {
+      "$date": "2025-03-14T16:16:43.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-07-03T21:05:37.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852fd"
+    },
+    "description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
+    "termsAndCondition": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst.",
+    "createdAt": {
+      "$date": "2024-09-25T22:02:46.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_514.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285214"
+    },
+    "title": "Buy 1 get 1 on Whole Roasted Chicken",
+    "cost": 372,
+    "totalQuota": 696,
+    "remainingQuota": 446,
+    "availableDate": {
+      "$date": "2024-06-15T08:10:36.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-04-26T18:47:58.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828532d"
+    },
+    "description": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst.",
+    "termsAndCondition": "Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+    "createdAt": {
+      "$date": "2025-03-07T18:11:41.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/pomeranian/n02112018_692.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285215"
+    },
+    "title": "Free Ice Cream Scoop",
+    "cost": 437,
+    "totalQuota": 582,
+    "remainingQuota": 167,
+    "availableDate": {
+      "$date": "2025-03-30T02:47:29.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-06-12T12:49:41.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285315"
+    },
+    "description": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis.",
+    "termsAndCondition": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "createdAt": {
+      "$date": "2024-10-03T16:35:59.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/weimaraner/n02092339_3698.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285216"
+    },
+    "title": "Free Comfort Flats",
+    "cost": 182,
+    "totalQuota": 802,
+    "remainingQuota": 106,
+    "availableDate": {
+      "$date": "2024-10-07T21:42:59.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-06-23T05:10:38.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828532a"
+    },
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "termsAndCondition": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum.",
+    "createdAt": {
+      "$date": "2024-12-18T20:52:23.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/mastiff-english/4.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285217"
+    },
+    "title": "Get discount on Peanut Butter Granola",
+    "cost": 459,
+    "totalQuota": 959,
+    "remainingQuota": 255,
+    "availableDate": {
+      "$date": "2024-05-29T00:34:17.000Z"
+    },
+    "expiryDate": {
+      "$date": "2026-05-10T19:51:37.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852fb"
+    },
+    "description": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",
+    "termsAndCondition": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo.",
+    "createdAt": {
+      "$date": "2025-03-08T16:01:30.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/spitz-japanese/beet-003.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285218"
+    },
+    "title": "Buy 1 get 1 on Thai Peanut Noodles",
+    "cost": 65,
+    "totalQuota": 776,
+    "remainingQuota": 433,
+    "availableDate": {
+      "$date": "2024-08-21T19:13:38.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-07-18T09:36:06.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285305"
+    },
+    "description": "Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
+    "termsAndCondition": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "createdAt": {
+      "$date": "2024-08-09T20:50:09.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-norwich/n02094258_3153.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285219"
+    },
+    "title": "Buy 1 get 1 on Smartphone Gimbal Stabilizer",
+    "cost": 351,
+    "totalQuota": 980,
+    "remainingQuota": 91,
+    "availableDate": {
+      "$date": "2024-10-24T00:12:56.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-06-23T15:54:55.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285314"
+    },
+    "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",
+    "termsAndCondition": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "createdAt": {
+      "$date": "2024-08-09T10:00:39.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_6672.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728521a"
+    },
+    "title": "Buy 1 get 1 on Wireless Earbud Silicone Covers",
+    "cost": 401,
+    "totalQuota": 975,
+    "remainingQuota": 332,
+    "availableDate": {
+      "$date": "2024-06-08T15:48:10.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-07-16T16:29:17.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828530b"
+    },
+    "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",
+    "termsAndCondition": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+    "createdAt": {
+      "$date": "2025-02-23T06:25:55.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/bulldog-english/mami.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728521b"
+    },
+    "title": "Get discount on Kids' Crafting Station",
+    "cost": 197,
+    "totalQuota": 692,
+    "remainingQuota": 208,
+    "availableDate": {
+      "$date": "2024-05-21T17:01:27.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-11-09T23:14:13.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828532e"
+    },
+    "description": "Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "termsAndCondition": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
+    "createdAt": {
+      "$date": "2025-02-21T02:03:15.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/cattledog-australian/IMG_1418.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728521c"
+    },
+    "title": "Get discount on Chopping Board",
+    "cost": 124,
+    "totalQuota": 714,
+    "remainingQuota": 319,
+    "availableDate": {
+      "$date": "2024-12-28T21:14:07.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-06T14:52:01.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852f3"
+    },
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum.",
+    "termsAndCondition": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.",
+    "createdAt": {
+      "$date": "2025-05-07T17:13:12.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/tervuren/shadow_and_frisbee.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728521d"
+    },
+    "title": "Free Wireless Keyboard and Mouse Combo",
+    "cost": 215,
+    "totalQuota": 898,
+    "remainingQuota": 3,
+    "availableDate": {
+      "$date": "2025-04-12T22:44:27.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-17T00:51:10.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852fe"
+    },
+    "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",
+    "termsAndCondition": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+    "createdAt": {
+      "$date": "2025-02-23T06:25:55.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_11073.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728521e"
+    },
+    "title": "Get discount on Honey Sesame Chicken Mix",
+    "cost": 55,
+    "totalQuota": 593,
+    "remainingQuota": 424,
+    "availableDate": {
+      "$date": "2024-07-04T14:38:32.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-08-04T01:48:15.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285316"
+    },
+    "description": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",
+    "termsAndCondition": "Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "createdAt": {
+      "$date": "2024-12-12T02:49:14.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/greyhound-indian/rampur-greyhound.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc728521f"
+    },
+    "title": "Free Digital Photo Frame",
+    "cost": 172,
+    "totalQuota": 975,
+    "remainingQuota": 20,
+    "availableDate": {
+      "$date": "2025-03-13T16:20:00.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-10T20:22:32.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b6828530d"
+    },
+    "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
+    "termsAndCondition": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+    "createdAt": {
+      "$date": "2024-09-16T19:12:23.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/entlebucher/n02108000_187.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285220"
+    },
+    "title": "Buy 1 get 1 on Cheddar Cheese Slices",
+    "cost": 464,
+    "totalQuota": 686,
+    "remainingQuota": 204,
+    "availableDate": {
+      "$date": "2025-01-07T22:38:52.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-07-15T15:17:00.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b68285323"
+    },
+    "description": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.",
+    "termsAndCondition": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.",
+    "createdAt": {
+      "$date": "2025-01-29T00:01:13.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/hound-ibizan/n02091244_6041.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "68295ac2fc13ae2bc7285221"
+    },
+    "title": "Get discount on Biodegradable Dog Waste Bags",
+    "cost": 310,
+    "totalQuota": 964,
+    "remainingQuota": 313,
+    "availableDate": {
+      "$date": "2024-12-14T11:50:17.000Z"
+    },
+    "expiryDate": {
+      "$date": "2025-10-01T01:08:56.000Z"
+    },
+    "placeId": {
+      "$oid": "68296683fc13ae2b682852f1"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
+    "termsAndCondition": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "createdAt": {
+      "$date": "2024-10-08T19:11:26.000Z"
+    },
+    "image": "https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_262.jpg"
+  }
+]
