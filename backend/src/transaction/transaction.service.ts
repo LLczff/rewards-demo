@@ -1,7 +1,6 @@
 import {
   Injectable,
   BadRequestException,
-  InternalServerErrorException,
   NotFoundException,
 } from '@nestjs/common';
 import { CreateTransactionDto } from './dto/create-transaction.dto';
@@ -25,36 +24,46 @@ export class TransactionService {
   ) {}
 
   async create(createTransactionDto: CreateTransactionDto): Promise<void> {
-    try {
-      const userId = createTransactionDto.userId;
-      // Find user balance
-      const user: User | null = await this.userModel.findById(userId).exec();
-      if (!user) throw new NotFoundException('User not found');
+    const userId = createTransactionDto.userId;
+    // Find user balance
+    const user: User | null = await this.userModel.findById(userId).exec();
+    if (!user) throw new NotFoundException('User not found');
 
-      const deal: Deal | null = await this.dealService.findOne(
-        createTransactionDto.dealId,
-      );
-      if (!deal) throw new NotFoundException('Deal not found');
+    const deal: Deal | null = await this.dealService.findOne(
+      createTransactionDto.dealId,
+    );
+    if (!deal) throw new NotFoundException('Deal not found');
 
-      if (user.pawCoin < deal.cost)
-        throw new BadRequestException('User coin not met the amount');
-
-      // Deduct user balance
-      await this.userModel.findByIdAndUpdate(userId, {
-        $set: { pawCoin: user.pawCoin - deal.cost },
-      });
-
-      // Insert coin transaction
-      const transaction = new this.transactionModel({
-        ...createTransactionDto,
-        amount: -1 * deal.cost,
-        description: deal.title,
-      });
-      await transaction.save();
-    } catch (error) {
-      console.error(error);
-      throw new InternalServerErrorException('Unexpected error');
+    // Check redeem date
+    const date = Date.now();
+    const availableDate = deal.availableDate.getTime();
+    const expiryDate = deal.expiryDate.getTime();
+    if (date < availableDate || date >= expiryDate) {
+      throw new BadRequestException('Redeem date not in range');
     }
+
+    // Check available
+    if (deal.remainingQuota <= 0) {
+      throw new BadRequestException('Deal not available anymore');
+    }
+
+    // Check user balance
+    if (user.pawCoin < deal.cost) {
+      throw new BadRequestException('User coin not met the amount');
+    }
+
+    // Deduct user balance
+    await this.userModel.findByIdAndUpdate(userId, {
+      $set: { pawCoin: user.pawCoin - deal.cost },
+    });
+
+    // Insert coin transaction
+    const transaction = new this.transactionModel({
+      ...createTransactionDto,
+      amount: -1 * deal.cost,
+      description: deal.title,
+    });
+    await transaction.save();
   }
 
   async findByUser(
