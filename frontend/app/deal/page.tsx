@@ -5,8 +5,7 @@ import Coin from "@/components/Coin";
 import Image from "next/image";
 
 async function Search() {
-  // const deals: Deal[] = await getData("/deal?limit=20");
-  const deals: Deal[] = [];
+  const deals: Deal[] = await getData("/deal?limit=20");
 
   return (
     <main className="main-container bg-white">

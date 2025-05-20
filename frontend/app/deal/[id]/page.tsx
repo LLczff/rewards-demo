@@ -10,14 +10,7 @@ import Redeem from "@/components/deal/Redeem";
 import { DynamicRouteProps } from "@/types/props";
 
 export async function generateStaticParams() {
-  return [
-    { id: "68295ac2fc13ae2bc72851be" },
-    { id: "68295ac2fc13ae2bc72851bf" },
-    { id: "68295ac2fc13ae2bc72851c0" },
-  ];
-  // if (process.env.DOCKER_BUILD === "true")
-  const res = await fetch("http://host.docker.internal:8000/deal");
-  const deals: Deal[] = await res.json();
+  const deals: Deal[] = await getData("/deal");
 
   return deals.map((deal) => ({
     id: deal._id,
