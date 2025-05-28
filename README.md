@@ -9,6 +9,7 @@
 ## Tech Stack
 
 - **Next.js 15**
+- **NestJS**
 - **Tailwind CSS v4**
 - **MongoDB**
 
